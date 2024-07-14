@@ -1,3 +1,3 @@
 # Razorpay Payment App Clone
-In this project i use the frontend technology to create a clone of a Razorpay payment app.
-In this I use HTML, CSS, JavaScript, PHP technologies.
+Project Overview: Developed a fully responsive web application that closely mimics the design and functionality of the popular Indian payment gateway, Razorpay
+Technologies Used: HTML, CSS, Tailwind CSS.
